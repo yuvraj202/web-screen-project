@@ -1,0 +1,13 @@
+var first="Yuvraj";
+var second="Dangi";
+var full=first.concat(second);
+console.log("My first console Project");
+console.log(full);
+console.log(full.toLowerCase());
+console.log(full.toUpperCase());
+console.log(full.length);
+console.log(Math.max(1,10));
+console.log(Math.min(5,10));
+console.log(Math.pow(2,5));
+console.log(Math.sqrt(16));
+console.log(full.replace("Yuvraj","Yuvi"));
